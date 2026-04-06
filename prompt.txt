@@ -1,0 +1,11 @@
+Create a minimal polished static web app in the current directory.
+Requirements:
+- Plain HTML, CSS, JS only
+- Main heading must say exactly: Hello Word
+- Add a small subtitle that says it's an example webapp
+- Clean modern styling, responsive, production-clean
+- Create files: index.html, styles.css, script.js, README.md
+- README should include local run instructions and note it's deployable to Vercel
+- Do not use frameworks or external dependencies
+- If git is not initialized, initialize it
+Return only brief completion text, do not ask questions.
